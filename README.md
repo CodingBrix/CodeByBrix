@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Max
+- 👀 I’m interested in Software Development 
+- 🌱 I’m currently learning Python
